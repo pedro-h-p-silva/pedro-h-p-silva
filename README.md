@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedro-h-p-silva
 - 👀 I’m interested in Programming, Robotic and tecnology in general
-- 🌱 I’m currently learning Arduino and cpp
+- 🌱 I’m currently learning Arduino, Cpp and Golang.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : pedrohenriquepsilva@gmail.com
 
